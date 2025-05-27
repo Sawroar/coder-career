@@ -8,6 +8,7 @@
 
 [👉 View Live Website](#)  
 https://coder-career-2025.netlify.app/
+https://sawroar.github.io/coder-career/
 
 ---
 
